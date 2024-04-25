@@ -13,6 +13,13 @@ package loops;
 //         }
 //     }
     
+
+// syntax : 
+/*
+    While(condition) {
+        //do something
+    }
+ */
     
 public class While {
 
